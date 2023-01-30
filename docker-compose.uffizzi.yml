@@ -14,7 +14,7 @@ services:
   app:
     depends_on:
       - "postgres"
-    image: ttl.sh/f35196a6-b38a-4785-83d6-03ffbb756b01:24h
+    image: uffizzitest/logto:latest
     ports:
       - 3001:3001
     environment:
