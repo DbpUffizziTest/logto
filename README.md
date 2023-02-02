@@ -48,7 +48,7 @@ Boringly, we call it "[customer identity access management](https://en.wikipedia
 
 Click the button below to try a live demo of Logto:
 
-[![Preview](https://cdn.uffizzi.com/demo-button.svg)](https://app.qa-gke.uffizzi.com/demo)
+[![Preview](https://cdn.uffizzi.com/demo-button.svg)](https://app.uffizzi.com/demo)
 
 <a href="https://pr-751-deployment-12242-uffizzi-platform.app.uffizzi.com/demo" referrerpolicy="unsafe-url">test link</a>
 
